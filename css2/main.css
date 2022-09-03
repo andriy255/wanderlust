@@ -31,10 +31,411 @@ a:hover{
     text-decoration: none;
     position: absolute;
     line-height: 2.2;
-    left:14%
+    left:14%;
 }
+@media screen and (max-width:750px){
+    .two{
+        color: black; 
+        text-decoration: none;
+        position: absolute;
+        line-height: 2.2;
+        left:24%;
+     } 
+}
+@media screen and (max-width:650px){
+    .two{
+        color: black; 
+        text-decoration: none;
+        position: absolute;
+        line-height: 2.2;
+        left:27.5%;
+     } 
+}
+@media screen and (max-width:550px){
+    a{
+        text-decoration: none;
+        color: black;
+        position: absolute;
+        left:3.5%;
+        line-height: 2.2;
+        font-size: 15.5px;
+        transition: 0.5s ease;
+    }
+    a:hover{
+        transform: scale(1.1);
+    }
+    .two{
+       color: black; 
+       text-decoration: none;
+       position: absolute;
+       line-height: 2.2;
+       left:14%;
+    }
+}
+@media screen and (max-width:550px){
+    .two{
+        color: black; 
+        text-decoration: none;
+        position: absolute;
+        line-height: 2.2;
+        left:31%;
+     } 
+}
+@media screen and (max-width:550px){
+    h1{
+        color: black;
+        font-family: 'Secular One', sans-serif;;
+        position: absolute;
+        line-height: 3.5;
+        left: 3%;
+        font-size: 31px;
+    }
+}
+@media screen and (max-width:500px){
+    a{
+        text-decoration: none;
+        color: black;
+        position: absolute;
+        left:3.5%;
+        line-height: 2.2;
+        font-size: 15.5px;
+        transition: 0.5s ease;
+    }
+    a:hover{
+        transform: scale(1.1);
+    }
+    .two{
+       color: black; 
+       text-decoration: none;
+       position: absolute;
+       line-height: 2.2;
+       left:14%;
+    }
+}
+    @media screen and (max-width:500px){
+        .two{
+            color: black; 
+            text-decoration: none;
+            position: absolute;
+            line-height: 2.2;
+            left:31%;
+         } 
+    }
+    @media screen and (max-width:500px){
+        h1{
+            color: black;
+            font-family: 'Secular One', sans-serif;;
+            position: absolute;
+            line-height: 3.8;
+            left: 3%;
+            font-size: 30px;
+        }
+    }
+    @media screen and (max-width:450px){
+        h1{
+            color: black;
+            font-family: 'Secular One', sans-serif;;
+            position: absolute;
+            line-height: 3.9;
+            left: 3%;
+            font-size: 29px;
+        }
+    }
+    @media screen and (max-width:450px){
+        a{
+            text-decoration: none;
+            color: black;
+            position: absolute;
+            left:3.5%;
+            line-height: 2.2;
+            font-size: 15px;
+            transition: 0.5s ease;
+        }
+        a:hover{
+            transform: scale(1.1);
+        }
+        .two{
+           color: black; 
+           text-decoration: none;
+           position: absolute;
+           line-height: 2.2;
+           left:14%;
+        }
+    }
+    @media screen and (max-width:450px){
+        .two{
+            color: black; 
+            text-decoration: none;
+            position: absolute;
+            line-height: 2.2;
+            left:34.5%;
+         } 
+    }
+    @media screen and (max-width:430px){
+        h1{
+            color: black;
+            font-family: 'Secular One', sans-serif;;
+            position: absolute;
+            line-height: 4.1;
+            left: 3%;
+            font-size: 28px;
+        }
+    }
+    @media screen and (max-width:430px){
+        .two{
+            color: black; 
+            text-decoration: none;
+            position: absolute;
+            line-height: 2.2;
+            left:36%;
+         } 
+    }
+    @media screen and (max-width:420px){
+        a{
+            text-decoration: none;
+            color: black;
+            position: absolute;
+            left:3.5%;
+            line-height: 2.2;
+            font-size: 15px;
+            transition: 0.5s ease;
+        }
+        a:hover{
+            transform: scale(1.1);
+        }
+        .two{
+           color: black; 
+           text-decoration: none;
+           position: absolute;
+           line-height: 2.2;
+           left:14%;
+        }
+    }
+    @media screen and (max-width:420px){
+        .two{
+            color: black; 
+            text-decoration: none;
+            position: absolute;
+            line-height: 2.2;
+            left:36%;
+         } 
+    }
+    @media screen and (max-width:430px){
+        h1{
+            color: black;
+            font-family: 'Secular One', sans-serif;;
+            position: absolute;
+            line-height: 4.1;
+            left: 3%;
+            font-size: 27.5px;
+        }
+        @media screen and (max-width:412px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.2;
+                left:37.5%;
+             } 
+        }
+    }
+        @media screen and (max-width:412px){
+            h1{
+                color: black;
+                font-family: 'Secular One', sans-serif;;
+                position: absolute;
+                line-height: 4.1;
+                left: 3%;
+                font-size: 27px;
+            }
+        }
+        @media screen and (max-width:400px){
+            h1{
+                color: black;
+                font-family: 'Secular One', sans-serif;;
+                position: absolute;
+                line-height: 4.45;
+                left: 3%;
+                font-size: 25.5px;
+            }
+        }
+            @media screen and (max-width:400px){
+                a{
+                    text-decoration: none;
+                    color: black;
+                    position: absolute;
+                    left:4.5%;
+                    line-height: 2.2;
+                    font-size: 14.5px;
+                    transition: 0.5s ease;
+                }
+                a:hover{
+                    transform: scale(1.1);
+              }
+                .two{
+                   color: black; 
+                   text-decoration: none;
+                   position: absolute;
+                   line-height: 2.2;
+                   left:14%;
+              }
+            }
+        @media screen and (max-width:400px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.2;
+                left:40.5%;
+             } 
+        }
+        @media screen and (max-width:380px){
+            a{
+                text-decoration: none;
+                color: black;
+                position: absolute;
+                left:4.65%;
+                line-height: 2.4;
+                font-size: 14.3px;
+                transition: 0.5s ease;
+            }
+            a:hover{
+                transform: scale(1.1);
+            }
+            .two{
+               color: black; 
+               text-decoration: none;
+               position: absolute;
+               line-height: 2.2;
+               left:14%;
+            }
+        }
+        @media screen and (max-width:380px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.4;
+                left:41.3%;
+             } 
+        }
+        @media screen and (max-width:350px){
+            h1{
+                color: black;
+                font-family: 'Secular One', sans-serif;;
+                position: absolute;
+                line-height: 4.5;
+                left: 3%;
+                font-size: 25.3px;
+            }
+        }
+        @media screen and (max-width:350px){
+            a{
+                text-decoration: none;
+                color: black;
+                position: absolute;
+                left:4.75%;
+                line-height: 2.65;
+                font-size: 14.2px;
+                transition: 0.5s ease;
+            }
+            a:hover{
+                transform: scale(1.1);
+            }
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.4;
+                left:41.3%;
+            }
+        }
+        @media screen and (max-width:350px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.7;
+                left:43.8%;
+             } 
+        }
+        @media screen and (max-width:330px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.7;
+                left:43.5%;
+             } 
+        }
+        @media screen and (max-width:300px){
+            a{
+                text-decoration: none;
+                color: black;
+                position: absolute;
+                left:4.95%;
+                line-height: 2.75;
+                font-size: 13.5px;
+                transition: 0.5s ease;
+            }
+            a:hover{
+                transform: scale(1.1);
+            }
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.4;
+                left:41.3%;
+            }
+        }
+        @media screen and (max-width:320px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.75;
+                left:44.5%;
+             } 
+        }
+        @media screen and (max-width:300px){
+            .two{
+                color: black; 
+                text-decoration: none;
+                position: absolute;
+                line-height: 2.75;
+                left:43.5%;
+             } 
+        }
+        @media screen and (max-width:350px){
+            h1{
+                color: black;
+                font-family: 'Secular One', sans-serif;;
+                position: absolute;
+                line-height: 4.55;
+                left: 3%;
+                font-size: 25px;
+            }
+        }
+            @media screen and (max-width:320px){
+                h1{
+                    color: black;
+                    font-family: 'Secular One', sans-serif;;
+                    position: absolute;
+                    line-height: 4.59;
+                    left: 3%;
+                    font-size: 24.8px;
+                }
+            }
+      
+                
+        
 
 
+
+
+        
+    
 
 
 
