@@ -1,0 +1,906 @@
+body{
+    background: #457fca;
+}
+.box{
+    width: 100vw;
+    height: 30vh;
+    background:white;
+}
+h1{
+    color:black;
+    font-family: 'Secular One', sans-serif;
+    font-size: 55px;
+    position: absolute;
+    line-height: 3.4;
+    left:5%;
+}
+p{
+    color: black;
+    font-size: 16px;
+    font-family: monospace;
+    text-decoration: overline;
+    position: absolute;
+    line-height: 15.6;
+    left: 11.1%;  
+}
+@media screen and (max-width:750px) {
+    p{
+        color: black;
+        font-size: 16px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 15.6;
+        left: 16%;  
+    }
+}
+@media screen and (max-width:650px) {
+    p{
+        color: black;
+        font-size: 15px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 16.3;
+        left: 17.7%;  
+    }  
+}
+@media screen and (max-width:650px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 54px;
+        position: absolute;
+        line-height: 3.4;
+        left:5%;
+    }  
+}
+@media screen and (max-width:550px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 52px;
+        position: absolute;
+        line-height: 3.3;
+        left:5%;
+    } 
+}
+@media screen and (max-width:550px) {
+    p{
+        color: black;
+        font-size: 15px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 15.4;
+        left: 19.3%;  
+    } 
+}
+@media screen and (max-width:500px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 49px;
+        position: absolute;
+        line-height: 3.6;
+        left:5%;
+    }
+}
+@media screen and (max-width:500px) {
+    p{
+        color: black;
+        font-size: 14.5px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 16.1;
+        left: 19.7%;  
+    } 
+}
+@media screen and (max-width:450px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 46px;
+        position: absolute;
+        line-height: 3.7;
+        left:5%;
+    }
+}
+@media screen and (max-width:450px) {
+    p{
+        color: black;
+        font-size: 14px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 16.1;
+        left: 20.3%;  
+    } 
+}
+@media screen and (max-width:430px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 43px;
+        position: absolute;
+        line-height: 3.9;
+        left:5.3%;
+    }
+}
+@media screen and (max-width:430px) {
+    p{
+        color: black;
+        font-size: 13.5px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 16.3;
+        left: 20.3%;  
+    } 
+}
+@media screen and (max-width:420px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 42.5px;
+        position: absolute;
+        line-height: 4;
+        left:5.9%;
+    }
+}
+@media screen and (max-width:420px) {
+    p{
+        color: black;
+        font-size: 13px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 17;
+        left: 21.1%;  
+    } 
+}
+@media screen and (max-width:412px) {
+    p{
+        color: black;
+        font-size: 13px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 17;
+        left: 21.4%;  
+    } 
+}
+@media screen and (max-width:400px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 41.5px;
+        position: absolute;
+        line-height: 4;
+        left:5.9%;
+    }
+}
+@media screen and (max-width:400px) {
+    p{
+        color: black;
+        font-size: 12.5px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 17.3;
+        left: 21.5%;  
+    } 
+}
+@media screen and (max-width:380px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 41.2px;
+        position: absolute;
+        line-height: 4.1;
+        left:5.9%;
+    }
+}
+@media screen and (max-width:380px) {
+    p{
+        color: black;
+        font-size: 12.2px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 17.9;
+        left: 22.1%;  
+    } 
+}
+@media screen and (max-width:350px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 38.5px;
+        position: absolute;
+        line-height: 4.4;
+        left:6.2%;
+    }
+}
+@media screen and (max-width:350px) {
+    p{
+        color: black;
+        font-size: 12px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 18;
+        left: 22.8%;  
+    } 
+}
+@media screen and (max-width:330px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 36px;
+        position: absolute;
+        line-height: 4.8;
+        left:6.2%;
+    }
+}
+@media screen and (max-width:330px) {
+    p{
+        color: black;
+        font-size: 11.5px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 18.9;
+        left: 22.8%;  
+    } 
+}
+@media screen and (max-width:320px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 34.5px;
+        position: absolute;
+        line-height: 4.85;
+        left:6.2%;
+    }
+}
+@media screen and (max-width:320px) {
+    p{
+        color: black;
+        font-size: 11px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 19;
+        left: 22.6%;  
+    } 
+}
+@media screen and (max-width:300px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 33.7px;
+        position: absolute;
+        line-height: 4.85;
+        left:6.2%;
+    }
+}
+@media screen and (max-width:300px) {
+    p{
+        color: black;
+        font-size: 10.5px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height: 19.9;
+        left: 23%;  
+    } 
+}
+@media screen and (max-width:280px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 32px;
+        position: absolute;
+        line-height: 5.23;
+        left:6.2%;
+    }
+}
+@media screen and (max-width:280px) {
+    p{
+        color: black;
+        font-size: 10.4px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height:20.2;
+        left: 23.58%;  
+    } 
+}
+@media screen and (max-width:270px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 31.5px;
+        position: absolute;
+        line-height: 5.33;
+        left:6.2%;
+    }
+}
+
+@media screen and (max-width:270px) {
+    p{
+        color: black;
+        font-size: 10.4px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height:20;
+        left: 23.98%;  
+    } 
+}
+@media screen and (max-width:250px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 29.7px;
+        position: absolute;
+        line-height: 5.51;
+        left:6%;
+    }
+}
+@media screen and (max-width:250px) {
+    p{
+        color: black;
+        font-size: 10px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height:20.2;
+        left: 24.4%;  
+    } 
+}
+@media screen and (max-width:230px) {
+    h1{
+        color:black;
+        font-family: 'Secular One', sans-serif;
+        font-size: 27.5px;
+        position: absolute;
+        line-height: 5.9;
+        left:6%;
+    }
+}
+@media screen and (max-width:250px) {
+    p{
+        color: black;
+        font-size: 9.5px;
+        font-family: monospace;
+        text-decoration: overline;
+        position: absolute;
+        line-height:21;
+        left: 24.7%;  
+    } 
+}
+.text{
+    text-decoration: none;
+    font-size: 50px;
+    position: absolute;
+    left: 3%;
+    line-height: 0%;
+    font-family: 'Varela Round', sans-serif;
+}
+.blok{
+   width: 490px; 
+   height: 110px;
+   background: #87CEEB;
+   position: absolute;
+   left:3%;
+   border: 4px solid black;
+   border-radius: 4px;
+}
+.sun{
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 1;
+    left: 3.2%;
+    font-family: 'Righteous', cursive;
+}
+@media screen and (max-width:650px){
+    .text{
+        text-decoration: none;
+        font-size: 50px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:650px){
+    .sun{
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-size: 16px;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:650px){
+    .blok{
+        width: 480px; 
+        height: 110px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:550px){
+    .text{
+        text-decoration: none;
+        font-size: 46px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:550px){
+    .sun{
+        font-size: 14.5px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:550px){
+    .blok{
+        width: 460px; 
+        height: 100px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:500px){
+    .blok{
+        width: 415px; 
+        height: 100px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:500px){
+    .text{
+        text-decoration: none;
+        font-size: 42px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:500px){
+    .sun{
+        font-size: 14px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:450px){
+    .blok{
+        width: 400px; 
+        height: 90px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:450px){
+    .text{
+        text-decoration: none;
+        font-size: 38px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:450px){
+    .sun{
+        font-size: 13px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:430px){
+    .text{
+        text-decoration: none;
+        font-size: 34px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:430px){
+    .sun{
+        font-size: 12px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:430px){
+    .blok{
+        width: 375px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:420px){
+    .blok{
+        width: 370px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:400px){
+    .text{
+        text-decoration: none;
+        font-size: 30px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:400px){
+    .sun{
+        font-size: 11.5px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:400px){
+    .blok{
+        width: 350px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:380px){
+    .text{
+        text-decoration: none;
+        font-size: 28.5px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:400px){
+    .sun{
+        font-size: 11.15px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:380px){
+    .blok{
+        width: 320px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:350px){
+    .text{
+        text-decoration: none;
+        font-size: 28px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:350px){
+    .sun{
+        font-size: 10.8px;
+        text-decoration: none;
+        line-height: 1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+} 
+@media screen and (max-width:350px){
+    .blok{
+        width: 310px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:330px){
+    .text{
+        text-decoration: none;
+        font-size: 27.5px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:330px){
+    .sun{
+        font-size: 10.2px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:330px){
+    .blok{
+        width: 290px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:320px){
+    .text{
+        text-decoration: none;
+        font-size: 27.2px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:320px){
+    .sun{
+        font-size: 10px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:320px){
+    .blok{
+        width: 285px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:300px){
+    .text{
+        text-decoration: none;
+        font-size: 27px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:300px){
+    .sun{
+        font-size: 9.65px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:300px){
+    .blok{
+        width: 275px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:280px){
+    .text{
+        text-decoration: none;
+        font-size: 26.5px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:280px){
+    .sun{
+        font-size: 9.1px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 3.2%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:280px){
+    .blok{
+        width: 260px; 
+        height: 80px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:270px){
+    .text{
+        text-decoration: none;
+        font-size: 26.3px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:270px){
+    .sun{
+        font-size: 8.8px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 3%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:270px){
+    .blok{
+        width: 250px; 
+        height: 70px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:250px){
+    .text{
+        text-decoration: none;
+        font-size: 26px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:250px){
+    .sun{
+        font-size: 8.1px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 2.9%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:250px){
+    .blok{
+        width: 230px; 
+        height: 70px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+@media screen and (max-width:220px){
+    .text{
+        text-decoration: none;
+        font-size: 25.5px;
+        line-height: 0%;
+        position: absolute;
+        left: 3%;
+        font-family: 'Varela Round', sans-serif;
+    }
+}
+@media screen and (max-width:220px){
+    .sun{
+        font-size: 6.9px;
+        text-decoration: none;
+        line-height: 1.1;
+        left: 2.7%;
+        font-family: 'Righteous', cursive;
+    }
+}
+@media screen and (max-width:220px){
+    .blok{
+        width: 200px; 
+        height:55px;
+        background: #87CEEB;
+        position: absolute;
+        left:3%;
+        border: 4px solid black;
+        border-radius: 4px;
+     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    }
