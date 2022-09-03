@@ -970,7 +970,20 @@ img{
         border-radius: 4px;
     }
 }
+a{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    left:3.5%;
+    line-height: 2.2;
+    font-size: 16px;
+    transition: 0.5s ease;
+}
+a:hover{
+    transform: scale(1.1);
+}
 *{
     margin: 0%;
     padding: 0%;
     }
+
