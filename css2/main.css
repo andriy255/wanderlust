@@ -289,16 +289,7 @@ a:hover{
                 left:40.5%;
              } 
         }
-        @media screen and (max-width:384px){
-            h1{
-                color: black;
-                font-family: 'Secular One', sans-serif;;
-                position: absolute;
-                line-height: 4.8;
-                left: 3%;
-                font-size: 25.5px;
-            }
-        }
+
         @media screen and (max-width:380px){
             a{
                 text-decoration: none;
@@ -433,6 +424,46 @@ a:hover{
                     font-family: 'Secular One', sans-serif;;
                     position: absolute;
                     line-height: 4.59;
+                    left: 3%;
+                    font-size: 24.8px;
+                }
+            }
+            @media screen and (max-width:310px){
+                h1{
+                    color: black;
+                    font-family: 'Secular One', sans-serif;;
+                    position: absolute;
+                    line-height: 4.85;
+                    left: 3%;
+                    font-size: 24.8px;
+                }
+            }
+            @media screen and (max-width:305px){
+                h1{
+                    color: black;
+                    font-family: 'Secular One', sans-serif;;
+                    position: absolute;
+                    line-height: 4.85;
+                    left: 3%;
+                    font-size: 24.8px;
+                }
+            }
+            @media screen and (max-width:304px){
+                h1{
+                    color: black;
+                    font-family: 'Secular One', sans-serif;;
+                    position: absolute;
+                    line-height: 4.85;
+                    left: 3%;
+                    font-size: 24.8px;
+                }
+            }
+            @media screen and (max-width:302px){
+                h1{
+                    color: black;
+                    font-family: 'Secular One', sans-serif;;
+                    position: absolute;
+                    line-height: 4.85;
                     left: 3%;
                     font-size: 24.8px;
                 }
