@@ -289,6 +289,16 @@ a:hover{
                 left:40.5%;
              } 
         }
+        @media screen and (max-width:384px){
+            h1{
+                color: black;
+                font-family: 'Secular One', sans-serif;;
+                position: absolute;
+                line-height: 4.55;
+                left: 3%;
+                font-size: 25.5px;
+            }
+        }
         @media screen and (max-width:380px){
             a{
                 text-decoration: none;
