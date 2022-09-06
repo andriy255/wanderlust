@@ -112,7 +112,7 @@ a:hover{
        left:14%;
     }
 }
-    @media screen and (max-width:500px){
+@media screen and (max-width:500px){
     .two{
         color: black; 
         text-decoration: none;
@@ -121,7 +121,7 @@ a:hover{
         left:31%;
     } 
     }
-    @media screen and (max-width:500px){
+@media screen and (max-width:500px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -131,7 +131,7 @@ a:hover{
         font-size: 30px;
     }
     }
-    @media screen and (max-width:450px){
+@media screen and (max-width:450px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -141,7 +141,7 @@ a:hover{
         font-size: 29px;
     }
     }
-    @media screen and (max-width:450px){
+@media screen and (max-width:450px){
     a{
         text-decoration: none;
         color: black;
@@ -171,7 +171,7 @@ a:hover{
         left:34.5%;
     } 
     }
-    @media screen and (max-width:430px){
+@media screen and (max-width:430px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -181,7 +181,7 @@ a:hover{
         font-size: 28px;
     }
     }
-    @media screen and (max-width:430px){
+@media screen and (max-width:430px){
     .two{
         color: black; 
         text-decoration: none;
@@ -190,7 +190,7 @@ a:hover{
         left:36%;
     } 
     }
-    @media screen and (max-width:420px){
+@media screen and (max-width:420px){
     a{
         text-decoration: none;
         color: black;
@@ -211,7 +211,7 @@ a:hover{
         left:14%;
         }
     }
-    @media screen and (max-width:420px){
+@media screen and (max-width:420px){
     .two{
         color: black; 
         text-decoration: none;
@@ -220,16 +220,17 @@ a:hover{
         left:36%;
     } 
     }
-    @media screen and (max-width:430px){
+@media screen and (max-width:420px){
     h1{
         color: black;
-        font-family: 'Secular One', sans-serif;;
+        font-family: 'Secular One', sans-serif;
         position: absolute;
         line-height: 4.1;
         left: 3%;
         font-size: 27.5px;
     }
-        @media screen and (max-width:412px){
+}
+@media screen and (max-width:412px){
     .two{
         color: black; 
         text-decoration: none;
@@ -237,9 +238,8 @@ a:hover{
         line-height: 2.2;
         left:37.5%;
     } 
-        }
     }
-        @media screen and (max-width:412px){
+@media screen and (max-width:412px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -249,7 +249,7 @@ a:hover{
         font-size: 27px;
     }
     }
-        @media screen and (max-width:400px){
+@media screen and (max-width:400px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -269,7 +269,7 @@ a:hover{
         font-size: 25.5px;
     }
 }
-        @media screen and (max-width:400px){
+@media screen and (max-width:400px){
     a{
         text-decoration: none;
         color: black;
@@ -290,7 +290,7 @@ a:hover{
         left:14%;
     }
     }
-        @media screen and (max-width:400px){
+@media screen and (max-width:400px){
     .two{
        color: black; 
        text-decoration: none;
@@ -299,7 +299,7 @@ a:hover{
        left:40.5%;
     } 
     }
-        @media screen and (max-width:380px){
+@media screen and (max-width:380px){
     a{
         text-decoration: none;
         color: black;
@@ -320,7 +320,7 @@ a:hover{
         left:14%;
     }
     }
-        @media screen and (max-width:380px){
+@media screen and (max-width:380px){
     .two{
         color: black; 
         text-decoration: none;
@@ -329,7 +329,7 @@ a:hover{
         left:41.3%;
     } 
     }
-        @media screen and (max-width:350px){
+@media screen and (max-width:350px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -339,7 +339,7 @@ a:hover{
         font-size: 25.3px;
     }
     } 
-        @media screen and (max-width:350px){
+@media screen and (max-width:350px){
     a{
         text-decoration: none;
         color: black;
@@ -360,7 +360,7 @@ a:hover{
         left:41.3%;
     }
     }
-        @media screen and (max-width:350px){
+@media screen and (max-width:350px){
     .two{
         color: black; 
         text-decoration: none;
@@ -369,7 +369,7 @@ a:hover{
         left:43.8%;
     } 
     }
-        @media screen and (max-width:330px){
+@media screen and (max-width:330px){
     .two{
         color: black; 
         text-decoration: none;
@@ -378,7 +378,7 @@ a:hover{
         left:43.5%;
     } 
     }
-        @media screen and (max-width:300px){
+@media screen and (max-width:300px){
     a{
         text-decoration: none;
         color: black;
@@ -399,7 +399,7 @@ a:hover{
         left:41.3%;
     }
     }
-        @media screen and (max-width:320px){
+@media screen and (max-width:320px){
     .two{
        color: black; 
        text-decoration: none;
@@ -408,7 +408,7 @@ a:hover{
        left:44.5%;
     } 
     }
-        @media screen and (max-width:300px){
+@media screen and (max-width:300px){
     .two{
        color: black; 
        text-decoration: none;
@@ -417,7 +417,7 @@ a:hover{
        left:43.5%;
     } 
     }
-        @media screen and (max-width:350px){
+@media screen and (max-width:350px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
@@ -427,72 +427,72 @@ a:hover{
         font-size: 25px;
     }
     }
-        @media screen and (max-width:320px){
+@media screen and (max-width:320px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
         position: absolute;
-        line-height: 4.9;
+        line-height: 4.7;
         left: 3%;
         font-size: 24.8px;
     }
     }
-    @media screen and (max-width:316px){
+@media screen and (max-width:316px){
         h1{
             color: black;
             font-family: 'Secular One', sans-serif;;
             position: absolute;
-            line-height: 4.9;
+            line-height: 4.7;
             left: 3%;
             font-size: 24.8px;
         }
         }
-    @media screen and (max-width:310px){
+@media screen and (max-width:310px){
         h1{
             color: black;
             font-family: 'Secular One', sans-serif;;
             position: absolute;
-            line-height: 4.9;
+            line-height: 4.7;
             left: 3%;
             font-size: 24.8px;
         }
         }
-        @media screen and (max-width:305px){
+@media screen and (max-width:305px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
         position: absolute;
-        line-height: 4.9;
+        line-height: 4.75;
         left: 3%;
         font-size: 24.8px;
     }
     }
-        @media screen and (max-width:304px){
+@media screen and (max-width:304px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
         position: absolute;
-        line-height: 4.9;
+        line-height: 4.78;
          left: 3%;
         font-size: 24.8px;
     }
     }
-        @media screen and (max-width:302px){
+@media screen and (max-width:302px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
         position: absolute;
-        line-height: 4.9;
+        line-height: 4.8;
         left: 3%;
                     font-size: 24.8px;
     }
 }
-        @media screen and (max-width:300px){
+@media screen and (max-width:300px){
     h1{
         color: black;
         font-family: 'Secular One', sans-serif;;
         position: absolute;
-        line-height: 4.9;
+        line-height: 4.8;
         left: 3%;
         font-size: 24.8px;
     }
