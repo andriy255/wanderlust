@@ -33,7 +33,15 @@ a:hover{
     line-height: 2.2;
     left:14%
 }
-
+@media screen and (max-width:750px){
+    .two{
+        color: black; 
+        text-decoration: none;
+        position: absolute;
+        line-height: 2.2;
+        left:24%;
+     } 
+}
 
 
 *{
