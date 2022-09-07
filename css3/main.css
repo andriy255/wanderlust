@@ -487,6 +487,342 @@ a:hover{
         font-size: 24.8px;
     }
 }
+.cloud{
+    font-size: 25px;
+    position: absolute;
+    left: 3%;
+    line-height: 3;
+    font-family: 'Permanent Marker', cursive;
+}
+.name{
+    text-decoration: underline;
+    font-size: 30px;
+    font-family: 'Space Mono', monospace;
+    position: absolute;
+    line-height: 3;
+    left: 3%;
+    color: white;
+ }
+ @media screen and (max-width:750px) {
+    .cloud{
+        font-size: 25px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:750px) {
+    .name{
+        text-decoration: underline;
+        font-size: 30px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 3;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:650px) {
+    .cloud{
+        font-size: 24.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:650px) {
+    .name{
+        text-decoration: underline;
+        font-size: 29.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 3;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:550px) {
+    .cloud{
+        font-size: 23.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:550px) {
+    .name{
+        text-decoration: underline;
+        font-size: 28.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.9;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:500px) {
+    .cloud{
+        font-size: 22px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:500px) {
+    .name{
+        text-decoration: underline;
+        font-size: 27px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.8;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:450px) {
+    .cloud{
+        font-size: 21px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:450px) {
+    .name{
+        text-decoration: underline;
+        font-size: 25px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.7;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:430px) {
+    .cloud{
+        font-size:20px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.8;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:430px) {
+    .name{
+        text-decoration: underline;
+        font-size: 24px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.5;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:420px) {
+    .cloud{
+        font-size:19.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.8;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:420px) {
+    .name{
+        text-decoration: underline;
+        font-size: 23px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.2;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:412px) {
+    .cloud{
+        font-size:19.2px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.8;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:412px) {
+    .name{
+        text-decoration: underline;
+        font-size: 22.7px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.1;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:400px) {
+    .cloud{
+        font-size:18.9px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.8;
+        font-family: 'Permanent Marker', cursive;
+    }
+ }
+ @media screen and (max-width:400px) {
+    .name{
+        text-decoration: underline;
+        font-size: 22.4px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2;
+        left: 3%;
+        color: white;
+     }
+ }
+ @media screen and (max-width:384px) {
+    .cloud{
+        font-size:18.6px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.7;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:384px) {
+    .name{
+        text-decoration: underline;
+        font-size: 22.1px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.9;
+        left: 3%;
+        color: white;
+    }
+}
+@media screen and (max-width:380px) {
+    .cloud{
+        font-size:18.3px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.6;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:380px) {
+    .name{
+        text-decoration: underline;
+        font-size: 21.8px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.8;
+        left: 3%;
+        color: white;
+    }
+}
+@media screen and (max-width:350px) {
+    .cloud{
+        font-size:17.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.6;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:350px) {
+    .name{
+        text-decoration: underline;
+        font-size: 20.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.8;
+        left: 3%;
+        color: white;
+    }
+}
+@media screen and (max-width:330px) {
+    .cloud{
+        font-size:17px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.6;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:330px) {
+    .name{
+        text-decoration: underline;
+        font-size: 19.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.8;
+        left: 3%;
+        color: white;
+    }
+}
+@media screen and (max-width:320px) {
+    .cloud{
+        font-size:16.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.6;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:320px) {
+    .name{
+        text-decoration: underline;
+        font-size: 19px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.7;
+        left: 3%;
+        color: white;
+    }
+}
+@media screen and (max-width:310px) {
+    .cloud{
+        font-size:16px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.6;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:310px) {
+    .name{
+        text-decoration: underline;
+        font-size: 18px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.7;
+        left: 3%;
+        color: white;
+    }
+}
+@media screen and (max-width:300px) {
+    .cloud{
+        font-size:16px;
+        position: absolute;
+        left: 3%;
+        line-height: 2.6;
+        font-family: 'Permanent Marker', cursive;
+    }
+}
+@media screen and (max-width:300px) {
+    .name{
+        text-decoration: underline;
+        font-size: 18px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.7;
+        left: 3%;
+        color: white;
+    }
+} 
 *{
     margin: 0%;
     padding: 0%;
