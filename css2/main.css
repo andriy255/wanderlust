@@ -497,7 +497,556 @@ a:hover{
         font-size: 24.8px;
     }
     }
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 10px 30px;
+        left: 18.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+        
+    .cloud{
+        font-size: 25px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }
+ .name{
+    font-size: 30px;
+    font-family: 'Space Mono', monospace;
+    position: absolute;
+    line-height: 3;
+    left: 3%;
+    color: white;
+ }
+@media screen and (max-width:750px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 10px 30px;
+        left: 31%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:650px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 10px 30px;
+        left: 35%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:550px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 10px 29px;
+        left: 40.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:500px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 9px 29px;
+        left: 44.8%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:450px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 7.5px 27.5px;
+        left: 46.9%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:450px) {
+    .cloud{
+        font-size: 24px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:430px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 6px 26.5px;
+        left: 47.9%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:430px) {
+    .cloud{
+        font-size: 23.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+ @media screen and (max-width:450px) {
+    .name{
+        font-size: 28.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 3;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:430px) {
+    .name{
+        font-size: 27.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 3;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:420px) {
+    .cloud{
+        font-size: 22.8px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:420px) {
+    .name{
+        font-size: 26.8px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.8;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:420px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 6px 26.5px;
+        left: 48.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:412px) {
+    .cloud{
+        font-size: 22.5px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:400px) {
+    .name{
+        font-size: 26.4px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.4;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:400px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 5px 25.5px;
+        left: 49.2%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:384px) {
+    .cloud{
+        font-size: 21.8px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:384px) {
+    .name{
+        font-size: 25.9px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.2;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:384px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 3.7px 24.3px;
+        left: 49.4%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:380px) {
+    .cloud{
+        font-size: 21.4px;
+        position: absolute;
+        left: 3%;
+        line-height: 3;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:380px) {
+    .name{
+        font-size: 25.5px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.2;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:380px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 3.5px 23.9px;
+        left: 49.1%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:350px) {
+    .cloud{
+        font-size: 20.9px;
+        position: absolute;
+        left: 2.8%;
+        line-height: 2.9;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:350px) {
+    .name{
+        font-size: 25.35px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.2;
+        left: 3%;
+        color: white;
+     }  
+}
+@media screen and (max-width:350px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 3.2px 23px;
+        left: 51.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:330px) {
+    .cloud{
+        font-size: 20.5px;
+        position: absolute;
+        left: 2.85%;
+        line-height: 2.9;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:330px) {
+    .name{
+        font-size: 24.4px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 2.1;
+        left: 3.5%;
+        color: white;
+     }  
+}
+@media screen and (max-width:330px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 2.5px 21.7px;
+        left: 52%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:320px) {
+    .cloud{
+        font-size: 19.5px;
+        position: absolute;
+        left: 2.85%;
+        line-height: 2.9;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:320px) {
+    .name{
+        font-size: 24px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.9;
+        left: 3.5%;
+        color: white;
+     }  
+}
+@media screen and (max-width:320px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 1,8px 20,4px;
+        left: 52%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:316px) {
+    .cloud{
+        font-size: 19.2px;
+        position: absolute;
+        left: 2.85%;
+        line-height: 2.9;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:316px) {
+    .name{
+        font-size: 23.7px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.8;
+        left: 3.5%;
+        color: white;
+     }  
+}
+@media screen and (max-width:316px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 1,75px 20px;
+        left: 51.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:310px) {
+    .cloud{
+        font-size: 19px;
+        position: absolute;
+        left: 2.85%;
+        line-height: 2.9;
+        font-family: 'Permanent Marker', cursive;
+    }    
+}
+@media screen and (max-width:310px) {
+    .name{
+        font-size: 23.4px;
+        font-family: 'Space Mono', monospace;
+        position: absolute;
+        line-height: 1.8;
+        left: 3.5%;
+        color: white;
+     }  
+}
+@media screen and (max-width:310px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 1,6px 17.5px;
+        left: 51.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:305px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 1px 17px;
+        left: 52.3%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:304px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 1px 17px;
+        left: 52.5%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+@media screen and (max-width:300px) {
+    .glow-button { text-decoration: none;
+        display: inline-block;
+        padding: 1px 17px;
+        left: 53%;
+        font-size: 20;
+        border: 2px double #FFFFFF;
+        margin: 10px 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 40px 40px#56CCF2 inset, 0 0 0 0 #F137A6;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px; color: white;
+        transition: .15s ease-in-out; }
+        .glow-button:hover
+        { box-shadow: 0 0 10px 0 #FFFFFF inset, 0 0 10px 4px #FFFFFF; color: #FFFFFF;}
+}
+
 *{
     margin: 0%;
     padding: 0%;
 }
+
+
