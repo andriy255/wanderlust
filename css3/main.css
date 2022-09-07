@@ -616,7 +616,7 @@ a:hover{
     .name{
         text-decoration: underline;
         font-size: 24px;
-        font-family: 'Space Mono', monospace;
+    
         position: absolute;
         line-height: 2.5;
         left: 3%;
