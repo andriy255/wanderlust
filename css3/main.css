@@ -492,7 +492,7 @@ a:hover{
     position: absolute;
     left: 3%;
     line-height: 3;
-    font-family: 'Permanent Marker', cursive;
+    font-family: 'Fjalla One', sans-serif;
 }
 .name{
     text-decoration: underline;
@@ -509,7 +509,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 3;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:750px) {
@@ -529,7 +529,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 3;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:650px) {
@@ -549,7 +549,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 3;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:550px) {
@@ -569,7 +569,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 3;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:500px) {
@@ -589,7 +589,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 3;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:450px) {
@@ -609,14 +609,14 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.8;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:430px) {
     .name{
         text-decoration: underline;
         font-size: 24px;
-    
+        font-family: 'Space Mono', monospace;
         position: absolute;
         line-height: 2.5;
         left: 3%;
@@ -629,7 +629,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.8;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:420px) {
@@ -649,7 +649,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.8;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:412px) {
@@ -669,7 +669,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.8;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
  }
  @media screen and (max-width:400px) {
@@ -689,7 +689,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.7;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:384px) {
@@ -709,7 +709,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.6;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:380px) {
@@ -729,7 +729,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.6;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:350px) {
@@ -749,7 +749,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.6;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:330px) {
@@ -769,7 +769,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.6;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:320px) {
@@ -789,7 +789,7 @@ a:hover{
         position: absolute;
         left: 3%;
         line-height: 2.6;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:310px) {
@@ -805,11 +805,11 @@ a:hover{
 }
 @media screen and (max-width:300px) {
     .cloud{
-        font-size:16px;
+        font-size:16.3px;
         position: absolute;
         left: 3%;
         line-height: 2.6;
-        font-family: 'Permanent Marker', cursive;
+        font-family: 'Fjalla One', sans-serif;
     }
 }
 @media screen and (max-width:300px) {
